@@ -66,4 +66,4 @@ st.pyplot(fig)
 
 # Hiển thị thông tin người tạo ở cuối trang với chữ nhỏ
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("<p style='font-size:12px; color:gray;'>Người tạo: Nguyễn Đức Mạnh | MSSV: [Điền MSSV của bạn vào đây]</p>", unsafe_allow_html=True)
+st.markdown("<p style='font-size:12px; color:gray;'>Người tạo: Nguyễn Đức Mạnh | MSSV: [31]</p>", unsafe_allow_html=True)
